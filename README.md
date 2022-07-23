@@ -1,19 +1,15 @@
 ### Hi 👋 I'm Bhargava Julaganti
 
+I am senior quality engineer from Detroit
+
 [![](https://img.shields.io/badge/-@bhargavajulaganti-%23181717?style=flat-square&logo=github)](https://github.com/bhargavjulaganti)
 [![](https://img.shields.io/badge/-bhargavajulaganti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nick-chapsas/)](https://www.linkedin.com/in/bhargav-julaganti-61851016/)
 
-<!--
-**bhargavjulaganti/bhargavjulaganti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /> </br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![bhargava julaganti github stats](https://github-readme-stats.vercel.app/api?username=bhargavjulaganti&show_icons=true&theme=gotham)
