@@ -13,3 +13,5 @@ I am senior quality engineer from Detroit
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![bhargava julaganti github stats](https://github-readme-stats.vercel.app/api?username=bhargavjulaganti&show_icons=true&theme=gotham)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavjulaganti&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
